@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<users>
+  <id></id><!--Идентфкатор-->
+  <type></type><!--Тип-->
+  <name></name><!--Имя-->
+  <link></link><!--Ссылка-->
+</users>
